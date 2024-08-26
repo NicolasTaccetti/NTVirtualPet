@@ -2,10 +2,10 @@
 // 8/23/24
 // Create a virtual pet with shape functions. Learn a workflow between a code IDE and GitHub to document and share computer programs. 
 
-  public void setup() {
+public void setup() {
     size(400, 400);
   }
-  public void draw() {
+public void draw() {
     background(0);
     pushMatrix();//beak
     translate(77, 16);
